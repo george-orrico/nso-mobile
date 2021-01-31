@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "130822550248",
+    "firebase_url": "https://nso-sistemas.firebaseio.com",
+    "project_id": "nso-sistemas",
+    "storage_bucket": "nso-sistemas.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:130822550248:android:44e2c613af68c1f9468f5d",
+        "android_client_info": {
+          "package_name": "com.nsosistemas.mobbay"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "130822550248-5rdki8tvv98n2snhi1rrom6qhp3kemu9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6Xtm8CorXUv6cbk4_jddGIQ7Arl44zww"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "130822550248-5rdki8tvv98n2snhi1rrom6qhp3kemu9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
